@@ -1,5 +1,8 @@
 # MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection
-#Traing
-The full source code will be released soon.
-#data
+
+# Training  
+The full source code will be released soon.  
+
+# Data  
 We provide the agr-dataset model here.
+
