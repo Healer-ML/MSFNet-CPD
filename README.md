@@ -4,5 +4,5 @@
 The full source code will be released soon.  
 
 # Data  
-We provide the agr-dataset model here.
+We provide the agr-dataset in data.
 
